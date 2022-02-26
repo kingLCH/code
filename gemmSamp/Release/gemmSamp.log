@@ -1,0 +1,10 @@
+﻿  MMult_4x4_10.cpp
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(97): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(98): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(99): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(100): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(103): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(104): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(105): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+e:\workspace2\vs2017\gemm\gemmsamp\src\mmult_4x4_10.cpp(106): error C2676: 二进制“*”:“__m128d”不定义该运算符或到预定义运算符可接收的类型的转换
+  MMult_4x4_9.cpp

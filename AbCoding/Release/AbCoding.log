@@ -1,0 +1,8 @@
+﻿  samp1.cpp
+e:\workspace2\vs2017\gemm\abcoding\samp1.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+e:\workspace2\vs2017\gemm\abcoding\samp1.cpp(34): warning C4018: “<=”: 有符号/无符号不匹配
+e:\workspace2\vs2017\gemm\abcoding\samp1.cpp(37): warning C4018: “>”: 有符号/无符号不匹配
+  正在生成代码
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AbCoding.vcxproj -> E:\workspace2\vs2017\gemm\Release\AbCoding.exe
